@@ -1,0 +1,20 @@
+{
+  "name": "coba-game-rdnumber",
+  "version": "1.0.0",
+  "description": "A simple CLI game where you guess a randomly generated number.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cobafastex01/coba-game-rdnumber",
+    "homepage": "https://twitter.com/norman_hashaway"
+  },
+  "dependencies": {
+    "coba-game-rdnumber": "^1.0.0",
+    "readline-sync": "^1.4.10"
+  },
+  "author": "Coba Fastex",
+  "license": "ISC"
+}
